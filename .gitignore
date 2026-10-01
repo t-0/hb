@@ -1,0 +1,5 @@
+*
+!/.gitignore
+!/downloads
+!/Cask
+!*claude*
